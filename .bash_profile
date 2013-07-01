@@ -14,7 +14,7 @@ alias ss="/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaver
 PATH=/usr/local/bin:/usr/local/share/npm/bin:${PATH}
 
 # z-script
-. /Users/raymundt/github/z/z.sh
+. $HOME/github/z/z.sh
 
 export DISPLAY=:0.0
 
